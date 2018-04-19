@@ -3,7 +3,7 @@ layout: post
 title: A estimulação transcraniana por corrente contínua pode aumentar a honestidade 
 
 ---
-
+(/images/ethics.jpg)
  
 Um trabalho interessante foi publicado na revista [PNAS](https://doi.org/10.1073/pnas.1614912114). Um grupo de pesquisadores da Suíça, Inglaterra e Estados Unidos demonstrou experimentalmente que a estimulação transcraniana por corrente contínua pode aumentar a honestidade em humanos. 
 
