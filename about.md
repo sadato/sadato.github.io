@@ -3,12 +3,11 @@ layout: page
 title: Sobre
 permalink: /about/
 ---
+Sou neurologista e neurofisiologista, desde 1990 trabalho com estimulação cerebral transcraniana não-invasiva.
 
-Some information about you!
+### Mais informações
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Estou no [ResearchGate!](https://www.researchgate.net/directory/profiles)
 
 ### Contact me
 
