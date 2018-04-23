@@ -1,4 +1,7 @@
-Hans Asperger e o Nazismo
+---
+Layout: post
+Title:Hans Asperger e o Nazismo
+---
 
 Um trabalho publicado pelo historiador Herwig Czech na revista [Molecular Autism](https://molecularautism.biomedcentral.com/articles/10.1186/s13229-018-0208-6) lança dúvidas sobre o papel de Hans Asperger como um defensor das crianças portadoras de deficiências durante o regime nazista.
 
