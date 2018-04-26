@@ -1,4 +1,8 @@
+---
+layout: post
+title: A Linha do Tempo da Eletroneuromiografia 
 
+---
 Ao realizarmos hoje um exame de eletroneuromiografia (ENMG) devemos nos lembrar de todo o esforço dos muitos neurofisiologistas e neurologistas que o tornaram possível!
 
 A partir do recente trabalho de [Kazamel et al. (2017)](https://www.jocn-journal.com/article/S0967-5868(17)30262-X/fulltext-) elaborei a seguinte linha do tempo, que nos dá uma ideia, ainda que superficial, de toda a pesquisa e desenvolvimento por trás de uma ENMG: 
