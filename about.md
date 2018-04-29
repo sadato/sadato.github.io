@@ -11,4 +11,4 @@ Estou no [ResearchGate!](https://www.researchgate.net/directory/profiles)
 
 ### Contato
 
-[neurounb@gmail.com](mailto:neurounb@gmail.com)
+[neuro.unb@gmail.com](mailto:neurounb@gmail.com)
