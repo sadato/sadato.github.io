@@ -3,8 +3,6 @@ layout: post
 title: Estimulação Magnética para Depressão é Eficaz em Sessões com 3 Minutos de Duração
 
 ---
----
-
 ![ ](/images/thetaburst.png)
 
 O tratamento da depressão resistente às medicações com a estimulação magnética transcraniana repetitiva (EMTr) já está bem estabelecido por estudos realizados nos últimos 20 anos. Normalmente, o tratamento é feito com EMTr a 10 Hz em sessões com 37,5 minutos de duração, 5 vezes por semana, durante 4 a 6 semanas.
