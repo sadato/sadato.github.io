@@ -20,16 +20,16 @@ A partir desses estudos, hoje podemos enumerar 10 princípios da plasticidade ce
 Princípio | Descrição
 
 |---|---|
-|Usar ou perder | A falta de uso de funções cerebrais específicas pode levar à sua degradação|
-|Usar e melhorar | O treinamento que mobiliza uma função cerebral específica pode levar à melhora dessa função|
-|Especificidade | A natureza do treinamento dita a natureza da plasticidade|
-|A repetição é importante | A indução de plasticidade requer repetições suficientes|
-|A intensidade é importante | A indução de plasticidade requer intensidade suficiente do treinamento|
-|O tempo é importante | Diferentes formas de plasticidade ocorrem em tempos diferentes durante o treinamento|
-|A saliência é importante | A experiência do treinamento tem que ser suficientemente saliente, ou marcante, para induzir a plasticidade|
-|A idade é importante | A plasticidade induzida pelo treinamento ocorre mais facilmente em cérebros mais jovens|
-|Transferência | A plasticidade em resposta a uma experiência de treinamento pode facilitar a aquisição de comportamentos semelhantes| 
-|Interferência | A plasticidade em resposta a uma experiência de treinamento pode interferir com a aquisição de outros comportamentos|
+| Usar ou perder | A falta de uso de funções cerebrais específicas pode levar à sua degradação|
+| Usar e melhorar | O treinamento que mobiliza uma função cerebral específica pode levar à melhora dessa função|
+| Especificidade | A natureza do treinamento dita a natureza da plasticidade|
+| A repetição é importante | A indução de plasticidade requer repetições suficientes|
+| A intensidade é importante | A indução de plasticidade requer intensidade suficiente do treinamento|
+| O tempo é importante | Diferentes formas de plasticidade ocorrem em tempos diferentes durante o treinamento|
+| A saliência é importante | A experiência do treinamento tem que ser suficientemente saliente, ou marcante, para induzir a plasticidade|
+| A idade é importante | A plasticidade induzida pelo treinamento ocorre mais facilmente em cérebros mais jovens|
+| Transferência | A plasticidade em resposta a uma experiência de treinamento pode facilitar a aquisição de comportamentos semelhantes| 
+| Interferência | A plasticidade em resposta a uma experiência de treinamento pode interferir com a aquisição de outros comportamentos|
 
 
 
