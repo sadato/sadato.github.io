@@ -24,16 +24,16 @@ A partir desses estudos, hoje podemos enumerar 10 princípios da plasticidade ce
 
 |**Princípio** | **Descrição**|
 |---|---|
-| **1. Usar ou perder** | A falta de uso de funções cerebrais específicas pode levar à sua degradação|
-| **2. Usar e melhorar** | O treinamento que mobiliza uma função cerebral específica pode levar à melhora dessa função|
-| **3. Especificidade** | A natureza do treinamento dita a natureza da plasticidade|
-| **4. A repetição é importante** | A indução de plasticidade requer repetições suficientes|
-| **5. A intensidade é importante** | A indução de plasticidade requer intensidade suficiente do treinamento|
-| **6. O tempo é importante** | Diferentes formas de plasticidade ocorrem em tempos diferentes durante o treinamento|
-| **7. A saliência é importante** | A experiência do treinamento tem que ser suficientemente saliente, ou marcante, para induzir a plasticidade|
-| **8. A idade é importante** | A plasticidade induzida pelo treinamento ocorre mais facilmente em cérebros mais jovens|
-| **9. Transferência** | A plasticidade em resposta a uma experiência de treinamento pode facilitar a aquisição de comportamentos semelhantes| 
-| **10. Interferência** | A plasticidade em resposta a uma experiência de treinamento pode interferir com a aquisição de outros comportamentos|
+| **1. Usar ou perder** | _A falta de uso de funções cerebrais específicas pode levar à sua degradação_|
+| **2. Usar e melhorar** | _O treinamento que mobiliza uma função cerebral específica pode levar à melhora dessa função_|
+| **3. Especificidade** | _A natureza do treinamento dita a natureza da plasticidade_|
+| **4. A repetição é importante** | _A indução de plasticidade requer repetições suficientes_|
+| **5. A intensidade é importante** | _A indução de plasticidade requer intensidade suficiente do treinamento_|
+| **6. O tempo é importante** | _Diferentes formas de plasticidade ocorrem em tempos diferentes durante o treinamento_|
+| **7. A saliência é importante** | _A experiência do treinamento tem que ser suficientemente saliente, ou marcante, para induzir a plasticidade_|
+| **8. A idade é importante** | _A plasticidade induzida pelo treinamento ocorre mais facilmente em cérebros mais jovens_|
+| **9. Transferência** | _A plasticidade em resposta a uma experiência de treinamento pode facilitar a aquisição de comportamentos semelhantes_| 
+| **10. Interferência** | _A plasticidade em resposta a uma experiência de treinamento pode interferir com a aquisição de outros comportamentos_|
 
 **Referências:**
 
