@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O Que a Ciência Básica nos Ensina Sobre Plasticidade Cerebral e Reabilitação Neurológica- Parte I: Os 10 Princípios da Plasticidade Cerebral
+title: O Que a Ciência Básica nos Ensina Sobre Plasticidade Cerebral e Reabilitação Neurológica
 
 ---
 
