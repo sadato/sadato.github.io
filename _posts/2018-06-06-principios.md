@@ -17,8 +17,7 @@ Os estudos posteriores com manipulação de membros e até mesmo aprendizado mot
 
 A partir desses estudos, hoje podemos enumerar 10 princípios da plasticidade cerebral que podem ter grande importância no desenho de programas de reabilitação neurológica. Em _posts_ futuros abordaremos cada um desses princípios em mais detalhes.
 
-Princípio | Descrição
-
+| Princípio | Descrição|
 |---|---|
 | Usar ou perder | A falta de uso de funções cerebrais específicas pode levar à sua degradação|
 | Usar e melhorar | O treinamento que mobiliza uma função cerebral específica pode levar à melhora dessa função|
