@@ -3,7 +3,7 @@ layout: page
 title: Sobre
 permalink: /about/
 ---
-Sou neurologista e neurofisiologista, desde 1990 trabalho com estimulação cerebral transcraniana não-invasiva e faço pesquisas sobre plasticidade cerebral normal e alterada por patologias.
+Sou neurologista e neurofisiologista, desde 1990 trabalho com estimulação cerebral transcraniana não-invasiva e faço pesquisas sobre plasticidade cerebral normal e alterada por patologias no Laboratório de Neurociência e Comportamento da Universidade de Brasília.
 
 ### Mais informações
 
