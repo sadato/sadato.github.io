@@ -20,7 +20,7 @@ Pouco antes dos nossos estudos com estimulação magnética transcraniana, estud
 
 Os estudos posteriores com manipulação de membros e até mesmo aprendizado motor, tanto em humanos quanto  em animais, são por demais numerosos para serem adequadamente citados neste _post_, mas todos confirmaram que existia um grau até  então nunca imaginado de plasticidade cerebral no cérebro adulto!
 
-A partir desses estudos, hoje podemos enumerar 10 princípios da plasticidade cerebral que podem ter grande importância no desenho de programas de reabilitação neurológica. Em _posts_ futuros abordaremos cada um desses princípios em mais detalhes.
+A partir desses estudos, hoje podemos enumerar 10 princípios da plasticidade cerebral [5] que podem ter grande importância no desenho de programas de reabilitação neurológica. Em _posts_ futuros abordaremos cada um desses princípios em mais detalhes.
 
 |**Princípio** | **Descrição**|
 |---|---|
@@ -44,6 +44,8 @@ A partir desses estudos, hoje podemos enumerar 10 princípios da plasticidade ce
 3. Merzenich MM, Jenkins WM.Reorganization of cortical representations of the hand following alterations of skin inputs induced by nerve injury, skin island transfers, and experience.J Hand Ther. 1993 Apr-Jun;6(2):89-104.
 
 4. Cohen LG, Bandinelli S, Topka HR, Fuhr P, Roth BJ, Hallett M.Topographic maps of human motor cortex in normal and pathological conditions: mirror movements, amputations and spinal cord injuries.Electroencephalogr Clin Neurophysiol Suppl. 1991;43:36-50.
+
+5. Kleim JA, Jones TA. Principles of experience-dependent neural plasticity: implications for rehabilitation after brain damage. Speech Lang Hear Res. 2008 Feb;51(1):S225-39. doi: 10.1044/1092-4388(2008/018).
 
 
 
