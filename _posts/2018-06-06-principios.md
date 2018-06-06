@@ -35,7 +35,7 @@ A partir desses estudos, hoje podemos enumerar 10 princípios da plasticidade ce
 | **9. Transferência** | A plasticidade em resposta a uma experiência de treinamento pode facilitar a aquisição de comportamentos semelhantes| 
 | **10. Interferência** | A plasticidade em resposta a uma experiência de treinamento pode interferir com a aquisição de outros comportamentos|
 
-Referências:
+**Referências:**
 
 1. Wiesel, T.N. and Hubel, D.H. Single-cell responses in striate cortex of kittens deprived of vision in one eye. J. Neurophysiol., 1963,26:1003-17
 
