@@ -8,6 +8,7 @@ Sou neurologista e neurofisiologista, desde 1990 trabalho com estimulação cere
 ### Mais informações
 
 Estou no [ResearchGate!](https://www.researchgate.net/directory/profiles)
+Minhas [publicações](http://familiabrasil.org/publicacoes.html)
 
 ### Contato
 
