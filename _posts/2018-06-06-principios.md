@@ -1,4 +1,9 @@
-O Que a Ciência Básica nos Ensina Sobre Plasticidade Cerebral e Reabilitação Neurológica- Parte I: Os 10 Princípios da Plasticidade Cerebral
+---
+layout: post
+title: O Que a Ciência Básica nos Ensina Sobre Plasticidade Cerebral e Reabilitação Neurológica- Parte I: Os 10 Princípios da Plasticidade Cerebral
+
+---
+![ ](/images/brain.jpg)O Que a Ciência Básica nos Ensina Sobre Plasticidade Cerebral e Reabilitação Neurológica- Parte I: Os 10 Princípios da Plasticidade Cerebral
 
 
 Nos anos 90, tive a oportunidade de fazer um _Fellowship_ no _National Institute of Neurological Disorders and Stroke_, em  Bethesda, Maryland (USA), onde participei de várias pesquisas utilizando a estimulação magnética transcraniana em humanos. O que essas pesquisas mostraram de mais interessante foi que o cérebro adulto, ao contrário do que se havia pensado durante muitas décadas, era capaz de se  reorganizar drasticamente em resposta a lesões, perda de membros ou mesmo após aprendizado motor.
