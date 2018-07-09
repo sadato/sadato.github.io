@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A estimulação bilateral do córtex pré-frontal inibe a propensão à pratica de atos agressivos
+title: A estimulação bilateral do córtex pré-frontal inibe a propensão à prática de atos agressivos
 
 ---
 ![](/images/aggression.jpg)
