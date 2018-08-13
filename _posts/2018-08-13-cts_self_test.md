@@ -3,6 +3,7 @@ layout: post
 title: Auto-exame para a síndrome do túnel do carpo
 
 ---
+![](/images/carpal_tunnel.jpg)
 
 Sem nenhuma sombra de dúvida, o diagnóstico mais frequente que necessita de confirmação pela eletroneuromiografia é a síndrome do túnel do carpo.
 
@@ -22,7 +23,7 @@ Existe um modo de realizar o **auto-exame** para saber se você tem a síndrome 
 
 1. **Manobra de Phalen**:
 
-Na manobra de Phalen, os pulsos são unidos em flexão forçada com os cotovelos estendidos e as mão apontando para baixo em direção ao chão, como na figura: ![](/images/phalen.png)
+Na manobra de Phalen, os pulsos são unidos em flexão forçada com os cotovelos estendidos e as mãos apontando para baixo em direção ao chão, como na figura: ![](/images/phalen.png)
 
 Você deve manter essa posição por 1 minuto. Se começar a sentir formigamento nas mãos, você pode ter a síndrome do túnel do carpo.
 
