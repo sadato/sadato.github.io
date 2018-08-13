@@ -21,13 +21,13 @@ Essa doença evolui de forma silenciosa durante muitos anos (décadas) por isso 
 
 Existe um modo de realizar o **auto-exame** para saber se você tem a síndrome do túnel do carpo. Ele não é nem de longe tão sensível quanto a eletroneuromiografia, mas serve como alerta para que você procure logo ajuda profissional. São dois testes fáceis:
 
-1. **Manobra de Phalen**:
+* **Manobra de Phalen**:
 
 Na manobra de Phalen, os pulsos são unidos em flexão forçada com os cotovelos estendidos e as mãos apontando para baixo em direção ao chão, como na figura: ![](/images/phalen.png)
 
 Você deve manter essa posição por 1 minuto. Se começar a sentir formigamento nas mãos, você pode ter a síndrome do túnel do carpo.
 
-2. **Sinal de Tinel**:
+* **Sinal de Tinel**:
 
 O teste conhecido entre os médicos como Sinal de Tinel envolve segurar a mão e o punho estendidos sobre uma mesa ou apoiados pela mão do médico, e então percutir (dar "pancadinhas) suavemente o nervo mediano logo atrás do túnel do carpo. O túnel do carpo é localizado na base da mão entre as duas eminências musculares da mão. Assim, a percussão leve deve ser feita na parte de baixo do punho logo atrás do túnel do carpo em si: 
 
