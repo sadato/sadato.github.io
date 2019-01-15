@@ -3,7 +3,7 @@ layout: post
 title: Um algoritmo de inteligência artificial mostra capacidade de diagnosticar a doença de Alzheimer precocemente
 
 ---
-![](/images/hallett.jpg)
+![](/images/PET_Alzheimer.jpg)
 
 Um [algoritmo de inteligência artificial](https://www.ucsf.edu/news/2018/12/412946/artificial-intelligence-can-detect-alzheimers-disease-brain-scans-six-years) programado pelo Dr. Jae Ho Sohn foi capaz de examinar _PET scans_ de cérebros humanos e de **detectar indicadores da doença de Alzheimer com um alto nível de confiança**, 6 anos antes, em média, do diagnóstico final dos pacientes.
 
