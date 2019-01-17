@@ -12,4 +12,4 @@ Minhas [publicações](http://familiabrasil.org/publicacoes.html)
 
 ### Contato
 
-[neuro.unb@gmail.com](mailto:neurounb@gmail.com)
+[dr.joaquim@familiabrasil.org](mailto:dr.joaquim@familiabrasil.org)
