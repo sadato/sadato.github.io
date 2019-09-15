@@ -34,19 +34,19 @@ Mas atenção: o ISSN (International Standard Serial Number)  *não é* um index
 
 
 5. O Fator de Impacto (FI): criado pelo ISI (Institute for Scientific Information), o *Fator de Impacto* é o método mais reconhecido para a avaliação da importância de um periódico científico.
-O FI é baseado em dois números: o número de citações de uma determinada revista nos últimos 2 anos (*A*) e o número de artigos de pesquisa e de revisão (ítens citáveis) publicados por aquela revista no mesmo período (*B*), deste modo: *A*/*B* *=* *Fator de Impacto*
+O FI é baseado em dois números: o número de citações de uma determinada revista nos últimos 2 anos (*A*) e o número de artigos de pesquisa e de revisão (ítens citáveis) publicados por aquela revista no mesmo período (*B*), deste modo: *A*/*B* *=* *Fator de Impacto*.
 O Fator de Impacto de uma revista pode ser consultado [online](https://scijournal.org/).
 
 ### Alguns cuidados com o Fator de Impacto:
 
 - Um FI alto não atesta necessariamente a qualidade, ou mesmo a validade, das referências citadas. Artigos famosos por erros ou mesmo retirados, frequentemente atraem muita atenção, e logo um grande número de citações!
-- As revistas que publicam mais artigos de revisão de literatura geralmente ficam no topo das listas de FI, embora não publiquem novos achados. Isso de deve ao fato de que artigos de revisão costumam ser muito citados.
+- As revistas que publicam mais artigos de revisão de literatura geralmente ficam no topo das listas de FI, embora não publiquem novos achados. Isso se deve ao fato de que artigos de revisão costumam ser muito citados.
 - Geralmente são necessários anos até que revistas novas obtenham indexação, por isso essas publicações estarão pouco representadas. 
 - Alguns editores aprenderam a "jogar" com o sistema, encorajando os autores a citarem os seus artigos anteriores previamente publicados na mesma revista. 
 
 ## Critérios alternativos
 
-Uma ferrameta recente é fornecida pelo  [Google Scholar Metrics](https://scholar.google.com/citations?view_op=top_venues&hl=pt-BR&vq=pt) (GSM) que permite a avaliação da visibilidade e influência de artigos recentes em revistas científicas, por idioma. Ele fornece uma lista das 100 publicações mais influentes , ordenadas pelo seu *índice h* de 5 anos e pelo *h mediano*:
+Uma ferramenta recente é fornecida pelo  [Google Scholar Metrics](https://scholar.google.com/citations?view_op=top_venues&hl=pt-BR&vq=pt) (GSM) que permite a avaliação da visibilidade e influência de artigos recentes em revistas científicas, por idioma. Ele fornece uma lista das 100 publicações mais influentes, ordenadas pelo seu *índice h* de 5 anos e pelo *h mediano*:
 
 O índice *h* de uma publicação é o maior número *h* tal que pelo menos *h* artigos dessa publicação tenham cido citados pelo menos *h* vezes cada. Por exemplo, uma publicação com 5 artigos citados por, respectivamente, 17, 9, 6, 3 e 2, tem um índice *h* de 3.
 
