@@ -3,7 +3,7 @@ layout: post
 title: Só Pode Fazer Bem? Pense Melhor... 
 
 ---
-![](/images/premature.jpg)
+![](/images/baby.jpeg)
 
 
 Nos anos 40, a mortalidade infantil era tal que um de cada cinco bebês prematuros morria. Depois que os médicos perceberam que esses bebês tinham grandes dificuldades respiratórias, passaram a aumentar os níveis de oxigênio nas incubadoras.
