@@ -3,7 +3,7 @@ layout: post
 title: Tratamentos com Resultados Evidentes 
 
 ---
-![](/images/premature.jpg)
+![](/images/motherskiss.jpeg)
 
 
 Novos tratamentos em medicina geralmente precisam ser validados mediante criteriosos estudos controlados. Entretanto, alguns novos procedimentos ou tratamentos medicamentosos são tão eficazes que a utilidade da sua utilização se torna evidente. 
