@@ -1,13 +1,9 @@
-
-
-
 ---
 layout: post
 title: Ciguatoxina: um veneno insidioso pode estar oculto no seu peixe
+
 ---
-
 ![ ](/images/pargo_legitimo.png)
-
 
 Uma intoxicação alimentar pouco conhecida, embora bastante frequente, e para a qual não existe um teste diagnóstico nem uma cura, e que é responsável por mais da metade dos casos de intoxicação por ingestão de peixes nos Estados Unidos: o envenenamento por ciguatoxina.
 
