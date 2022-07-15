@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ciguatoxina: um veneno insidioso pode estar oculto no seu peixe
+title: A estimulação transcraniana por corrente contínua pode aumentar a honestidade 
 
 ---
 ![ ](/images/pargo_legitimo.png)
