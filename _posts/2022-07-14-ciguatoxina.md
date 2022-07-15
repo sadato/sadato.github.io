@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Um veneno insidioso pode estar oculto no seu peixe 
+title: Um veneno insidioso pode estar oculto no seu peixe, a ciguatoxina
 
 ---
 ![ ](/images/pargo.png)
