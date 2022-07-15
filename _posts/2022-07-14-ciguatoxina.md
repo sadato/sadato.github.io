@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A estimulação transcraniana por corrente contínua pode aumentar a honestidade 
+title: Ciguatoxina: um veneno insidioso pode estar oculto no seu peixe 
 
 ---
-<img src="https://raw.githubusercontent.com/sadato/images/pargo_legitimo.png" width="600">
+![ ](/images/pargo_legitimo.png)
 
 Uma intoxicação alimentar pouco conhecida, embora bastante frequente, e para a qual não existe um teste diagnóstico nem uma cura, e que é responsável por mais da metade dos casos de intoxicação por ingestão de peixes nos Estados Unidos: o envenenamento por ciguatoxina.
 
