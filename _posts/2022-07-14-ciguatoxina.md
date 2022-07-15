@@ -4,8 +4,8 @@
 ---
 layout: post
 title: Ciguatoxina: um veneno insidioso pode estar oculto no seu peixe
-
 ---
+
 ![ ](/images/pargo_legitimo.png)
 
 
