@@ -68,7 +68,6 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
     - variabilidade dos dados
 
 
-
  ## 7. Não implementar medidas adequadas de controle de viés do estudo   
 
 
@@ -98,7 +97,7 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 
- ## 10. Não ter um protocolo escrito detalhado
+## 10. Não ter um protocolo escrito detalhado
 
 
 
@@ -131,7 +130,7 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 
- ## 13. Não realizar os cálculos de poder (*power*) do estudo
+## 13. Não realizar os cálculos de poder (*power*) do estudo
 - muitos *softwares* podem fazer esse cálculo
 
 - Estudos de equivalência com baixo poder estatístico
