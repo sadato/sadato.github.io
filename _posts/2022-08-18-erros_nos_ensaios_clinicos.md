@@ -155,4 +155,4 @@ tendem a erros do tipo II (falso negativo)
 - um único estudo nunca prova que uma hipótese é verdadeira, ele simplesmente rejeita a hipótese nula
 
   
-  *Fonte*: Clark, G.T. and Mulligan, R., 2011. Fifteen common mistakes encountered in clinical research. Journal of Prosthodontic Research, 55(1), pp.1-6.
+  *Fonte: Clark, G.T. and Mulligan, R., 2011. Fifteen common mistakes encountered in clinical research. Journal of Prosthodontic Research, 55(1), pp.1-6.*
