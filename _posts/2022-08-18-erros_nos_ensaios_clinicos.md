@@ -10,7 +10,7 @@ Os ensaios clínicos são fundamentais para o progresso da medicina.
 Entretanto, devemos estar atentos aos diversos erros e problemas que podem levar a conclusões equivocadas:
 
 
- 1. Falta de pesquisa cuidadosa da literatura para identificar pesquisa semelhante já publicada
+ ## 1. Falta de pesquisa cuidadosa da literatura para identificar pesquisa semelhante já publicada
 
 Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa já foi respondida por algum autor
 
@@ -18,7 +18,7 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 - **Dica**: ler com atenção a seção de discussão de artigos semelhantes; pode dizer o que falta pesquisar na área
 
 
- 2. Falta de análise crítica dos trabalhos anteriormente publicados
+## 2. Falta de análise crítica dos trabalhos anteriormente publicados
 
 
 
@@ -26,7 +26,7 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 
- 3. Falta de deixar bem claros os critérios de inclusão e exclusão de participantes
+## 3. Falta de deixar bem claros os critérios de inclusão e exclusão de participantes
 
 
 
@@ -34,7 +34,7 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 
- 4. Não determinar e descrever a margem de erro dos seus métodos de medida
+ ## 4. Não determinar e descrever a margem de erro dos seus métodos de medida
 
 
 
@@ -46,7 +46,7 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 
- 5. Não especificar os pressupostos estatísticos
+## 5. Não especificar os pressupostos estatísticos
 	- nível de significância aceito (alfa)- 0,05 ou 0,01
 	- testes estatísticos utilizados
 	- raramente indicam o valor de beta (possibilidade de erro tipo II)
@@ -54,7 +54,7 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 
- 6. Não realizar o cálculo do tamanho da amostra antes de começar o estudo
+## 6. Não realizar o cálculo do tamanho da amostra antes de começar o estudo
 	- a maioria dos ensaios clínicos que dizem que dois métodos são equivalentes ou não superiores têm baixo poder, ou seja, "n" muito pequeno
 
 
@@ -70,7 +70,7 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 
- 7. Não implementar medidas adequadas de controle de viés do estudo   
+ ## 7. Não implementar medidas adequadas de controle de viés do estudo   
 
 
 
@@ -84,7 +84,7 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 
- 8. Não determinar e seguir um cronograma
+## 8. Não determinar e seguir um cronograma
 
 
 
@@ -92,14 +92,14 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 
- 9. Não ter estratégias bem determinadas de recrutamento e manutenção de voluntários
+## 9. Não ter estratégias bem determinadas de recrutamento e manutenção de voluntários
 
 
 **Dica**: Muitos ensaios clínicos fracassam por não conseguir recrutar e manter os voluntários- fazer disso uma **prioridade** 
 
 
 
- 10. Não ter um protocolo escrito detalhado
+ ## 10. Não ter um protocolo escrito detalhado
 
 
 
@@ -111,7 +111,7 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 
- 11. Não verificar a normalidade dos dados (apenas para variáveis lineares contínuas)
+## 11. Não verificar a normalidade dos dados (apenas para variáveis lineares contínuas)
 	- programas podem checar a normalidade
 	- dados que não têm distribuição normal podem ser transformados logaritmicamente para continuar a usar testes paramétricos (mais sensíveis)
 
@@ -121,7 +121,7 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 
- 12. Não relatar dados faltantes, sujeitos perdidos e análise *intention to treat*
+## 12. Não relatar dados faltantes, sujeitos perdidos e análise *intention to treat*
 
 
 
@@ -133,7 +133,7 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 
- 13. Não realizar os cálculos de poder (*power*) do estudo
+ ## 13. Não realizar os cálculos de poder (*power*) do estudo
 	- muitos *softwares* podem fazer esse cálculo
 
 
@@ -152,11 +152,11 @@ tendem a erros do tipo II (falso negativo)
 
 
 
- 14. Não comentar os pontos fracos do próprio estudo
+## 14. Não comentar os pontos fracos do próprio estudo
 
 
 
- 15. Não entender e utilizar corretamente a linguagem científica
+## 15. Não entender e utilizar corretamente a linguagem científica
 
 - um único estudo nunca prova que uma hipótese é verdadeira, ele simplesmente rejeita a hipótese nula
 
