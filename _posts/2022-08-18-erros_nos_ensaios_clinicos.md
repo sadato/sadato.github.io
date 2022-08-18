@@ -68,7 +68,7 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
     - variabilidade dos dados
 
 
- ## 7. Não implementar medidas adequadas de controle de viés do estudo   
+## 7. Não implementar medidas adequadas de controle de viés do estudo   
 
 
 
@@ -155,3 +155,4 @@ tendem a erros do tipo II (falso negativo)
 - um único estudo nunca prova que uma hipótese é verdadeira, ele simplesmente rejeita a hipótese nula
 
   
+  *Fonte*: Clark, G.T. and Mulligan, R., 2011. Fifteen common mistakes encountered in clinical research. Journal of Prosthodontic Research, 55(1), pp.1-6.
