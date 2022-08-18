@@ -10,7 +10,7 @@ Os ensaios clínicos são fundamentais para o progresso da medicina.
 Entretanto, devemos estar atentos aos diversos erros e problemas que podem levar a conclusões equivocadas:
 
 
- ## 1. Falta de pesquisa cuidadosa da literatura para identificar pesquisa semelhante já publicada
+## 1. Falta de pesquisa cuidadosa da literatura para identificar pesquisa semelhante já publicada
 
 Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa já foi respondida por algum autor
 
@@ -34,7 +34,7 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 
- ## 4. Não determinar e descrever a margem de erro dos seus métodos de medida
+## 4. Não determinar e descrever a margem de erro dos seus métodos de medida
 
 
 
@@ -47,16 +47,15 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 ## 5. Não especificar os pressupostos estatísticos
-	- nível de significância aceito (alfa)- 0,05 ou 0,01
-	- testes estatísticos utilizados
-	- raramente indicam o valor de beta (possibilidade de erro tipo II)
-	- geralmente 0,2 ou menos e o poder do estudo (1 menos beta)
+- nível de significância aceito (alfa)- 0,05 ou 0,01
+- testes estatísticos utilizados
+- raramente indicam o valor de beta (possibilidade de erro tipo II)
+- geralmente 0,2 ou menos e o poder do estudo (1 menos beta)
 
 
 
 ## 6. Não realizar o cálculo do tamanho da amostra antes de começar o estudo
-	- a maioria dos ensaios clínicos que dizem que dois métodos são equivalentes ou não superiores têm baixo poder, ou seja, "n" muito pequeno
-
+- a maioria dos ensaios clínicos que dizem que dois métodos são equivalentes ou não superiores têm baixo poder, ou seja, "n" muito pequeno
 
 
 **Dica**: há programas online e comercialmente disponíveis que estimam o tamanho necessário para a amostra
@@ -112,9 +111,8 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
 ## 11. Não verificar a normalidade dos dados (apenas para variáveis lineares contínuas)
-	- programas podem checar a normalidade
-	- dados que não têm distribuição normal podem ser transformados logaritmicamente para continuar a usar testes paramétricos (mais sensíveis)
-
+- programas podem checar a normalidade
+- dados que não têm distribuição normal podem ser transformados logaritmicamente para continuar a usar testes paramétricos (mais sensíveis)
 
 
 **Dica**: olhar os dados num gráfico- forma de sino?
@@ -134,13 +132,10 @@ Para evitar isso, devemos partir do pressuposto de que a pergunta de pesquisa j�
 
 
  ## 13. Não realizar os cálculos de poder (*power*) do estudo
-	- muitos *softwares* podem fazer esse cálculo
-
-
+- muitos *softwares* podem fazer esse cálculo
 
 - Estudos de equivalência com baixo poder estatístico
 tendem a erros do tipo II (falso negativo)
-
 
 
 - Causas de erro tipo II
