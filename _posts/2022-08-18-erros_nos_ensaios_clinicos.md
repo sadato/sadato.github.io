@@ -1,6 +1,5 @@
 
 ---
-
 layout: post
 title: 15 Erros Comuns nos Ensaios Clínicos
 
