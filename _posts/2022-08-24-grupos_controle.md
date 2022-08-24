@@ -3,6 +3,7 @@ layout: post
 title: Controles nos Ensaios Clínicos
 
 --- 
+![](/images/pills.jpeg)
 
 Um grupo controle estudado simultaneamente é um componente essencial da maioria dos ensaios clínicos adequados. Veremos, entretanto, que em certas situações o grupo controle pode não ser necessário.
 
