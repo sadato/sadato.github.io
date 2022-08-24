@@ -1,33 +1,38 @@
-# Controles nos Ensaios Clínicos
+---
+layout: post
+title: Controles nos Ensaios Clínicos
 
-Um grupo controle estudado simultaneamente é um componente essencial da maioria dos ensaios clínicos adequados. Veremos, enrtetanto, que em certas situações o grupo controle pode não ser necessário.
+--- 
+
+Um grupo controle estudado simultaneamente é um componente essencial da maioria dos ensaios clínicos adequados. Veremos, entretanto, que em certas situações o grupo controle pode não ser necessário.
 
 A utilidade de um grupo controle foi bem ilustrada numa revisão de estudos sobre fármacos que mostrou que 83% de 52 estudos sem grupo controle indicaram eficácia do fármaco estudado, enquanto apenas 25% de 20 estudos com grupo controle indicaram eficácia [1].
 
 Os controles são necessários porque tanto os benefícios quanto os efeitos colaterais que ocorrem durante um ensaio clínico podem resultar de muitos fatores, sendo que o efeito do tratamento é apenas um deles. Dentre os fatores que podem influenciar os resultados do ensaio clínico, podemos citar:
 
-	- história natural da doença
-	- efeitos inespecíficos do tratamento
-	- acaso
-	- vieses
+- história natural da doença
+- efeitos inespecíficos do tratamento
+- acaso
+- vieses
 
-- História natural da doença
+# História natural da doença
 
 Muitas condições são caracterizadas por melhoras e recaídas, e como muitos pacientes tendem a participar de um ensaio clínico quando estão em piores condições, eles provavelmente melhorarão de qualquer modo após entrar no estudo, quer seja a terapia eficaz ou não!
 
 
-- Efeitos inespecíficos do tratamento
+# Efeitos inespecíficos do tratamento
 
 A evolução do paciente também pode ser influenciada  pela atenção recebida durante o ensaio clínico, bem como pela expectativa do médico e do paciente com relação ao tratamento. Essa melhora não relacionada ao tratamento em si caracteriza o efeito placebo.
 Entretanto, o efeito placebo também pode ser associado a efeitos colaterais não relacionados ao tratamento em aproximadamente 19% dos pacientes, como documentado numa revisão de 109 ensaios clínicos controlados [2,3].
 
 A existência de um grupo controle estudado simultaneamente é a melhor maneira de se assegurar de que os resultads obtidos são relacionados ao tratamento e não à história natural da doença ou a efeitos placebo. Entretanto, existem ensaios clínicos que podem dispensar, com segurança, a utilização de um grupo controle. Isso ocorre naqueles que estudam tratamentos de doenças que são universal e rapidamente fatais, pois qualquer sobrevivência seria o resultado do tratamento, bem como naqueles que apresentam resultados muito uniformes e bem documentados. Alguns exemplos:
 
-	- uso do desfibrilador para pacientes com fibrilação ventricular (uniformemente fatal sem o tratamento);
+- uso do desfibrilador para pacientes com fibrilação ventricular (uniformemente fatal sem o tratamento);
 
-	- resposta de cura completa de uma condição dermatológica em todos os pacientes tratados no estudo, com documentação fotográfica.
+- resposta de cura completa de uma condição dermatológica em todos os pacientes tratados no estudo, com documentação fotográfica.
 
-- Escolha do grupo controle adequado
+
+# Escolha do grupo controle adequado
 
 A escolha de um grupo controle apropriado é crítica no desenho de um ensaio clínico.  Os controles com **placebo** são adequados para **doenças para as quais não existe um tratamento comprovadamente eficaz**. Quando existe um tratamento eficaz, por motivos éticos, grupos tratados com esse medicamento ou tratamento padrão, em doses adequadas, serão os controles mais adequados para os testes de um novo tratamento. Controles tratados com placebo também são inapropriados em casos de doenças fatais, por motivos éticos e lógicos!
 
@@ -74,12 +79,12 @@ Finalmente, é importante lembrar que a perda de pacientes em estudos *crossover
 Esses estudos, utilizados principamente em tratamentos de dermatologia, devem levar em conta que os fármacos aplicados topicamente podem ser translocados inadvertidamente para outras regiões e que pode ocorrer absorção sistêmica do fármaco, o que poderia propiciar uma ação à distância, por exemplo, de corticosteroides tópicos.
 
 
-- Conclusão
+# Conclusão
 
 Podemos concluir, portanto, que o uso de grupos-controles é de fundamental importância na maioria dos ensaios clínicos, mas um grande cuidado é necessário na escolha do melhor desenho experimental, levando em conta as vantagens e limitações de cada tipo de controle.
 
 
-Fontes: 
+*Fontes*: 
 
 1. Hines DC, Goldzieher JW. Clinical investigation: a guide to its evaluation. American Journal of Obstetrics and Gynecology. 1969 Oct 1;105(3):450-87.
 
