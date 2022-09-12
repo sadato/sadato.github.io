@@ -68,7 +68,7 @@ Também não deve ser usado com conjuntos de dados muito pequenos porque é impo
 
 É o teste mais utilizado para analisar dados categóricos (ex.: boa resposta/sem resposta ao tratamento).
 Entretanto, para conjuntos pequenos de dados (20-40 pacientes) deve ser usada a correção de Yates e o qui-quadrado não deve ser usado para analisar ensaios com menos de 20 pacientes ou quando o número de pacientes em qualquer das categorias for menor do que 5. Nesses casos, deve ser usado o *teste exato de Fisher*.
-O teste Qui-quadrado é usado para analisar dados categóricos não pareados e o  _teste de McNemar_  é usado para _dados pareados_.
+O teste qui-quadrado é usado para analisar dados categóricos não pareados e o  _teste de McNemar_  é usado para _dados pareados_.
 
 As tabelas de contingência podem ser facilmente modificadas para comparar mais de dois tratamentos ou mais de dois desfechos.
 
@@ -81,7 +81,7 @@ Exemplo de tabela de contingência, cálculo do qui-quadrado e da correção de 
 Gore, Jones e Rytter (1977) numa análise de artigos publicados no *British Medical Journal* verificaram uso incorreto do teste qui-quadrado em 12 de 62 trabalhos!
 
 
-### Erros comuns no uso do teste Qui-Quadrado
+### Erros comuns no uso do teste qui-quadrado
 
 Os erros mais comuns em relação ao qui-quadrado são:
 
