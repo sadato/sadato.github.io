@@ -1,4 +1,8 @@
-# Análise Estatística
+---
+layout: post
+title: Análise Estatística na Literatura Médica
+
+---
 
 A correta análise estatística dos dados é muito importante nos ensaios clínicos. Surpreendentemente, entretanto, as análises estatísticas realizadas são frequentemente omitidas dos ensaios clínicos e outros artigos publicados [@baharUseMisuseStatistical2019].
 O tamanho da amostra é importante,  já que amostras pequenas tendem a mostrar mais diferenças significativas entre os grupos de tratamento. Além disso, a quantidade e as características dos dados são de extrema importância para a escolha dos testes estatísticos corretos.
