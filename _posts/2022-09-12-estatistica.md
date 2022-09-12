@@ -3,8 +3,9 @@ layout: post
 title: Análise Estatística na Literatura Médica
 
 ---
+![](/images/statistics.jpg)
 
-A correta análise estatística dos dados é muito importante nos ensaios clínicos. Surpreendentemente, entretanto, as análises estatísticas realizadas são frequentemente omitidas dos ensaios clínicos e outros artigos publicados [@baharUseMisuseStatistical2019].
+A correta análise estatística dos dados é muito importante nos ensaios clínicos. Surpreendentemente, entretanto, as análises estatísticas realizadas são frequentemente omitidas dos ensaios clínicos e outros artigos publicados (Bahar et al., 2019).
 O tamanho da amostra é importante,  já que amostras pequenas tendem a mostrar mais diferenças significativas entre os grupos de tratamento. Além disso, a quantidade e as características dos dados são de extrema importância para a escolha dos testes estatísticos corretos.
 
 
@@ -24,7 +25,7 @@ Inversamente, a frase **a diferença não foi estatisticamente significativa (*p
 
 É importante lembrar que **não significativo** significa que  uma diferença *não foi provada*; não significa que não exista diferença.
 
- A aceitação de um nível de significância de 0,05 como o limite para rejeitar a hipótese nula é uma tradição baseada em padrões de controle de qualidade e não é uma verdade absoluta [@bigbyUnderstandingEvaluatingClinical1996].
+ A aceitação de um nível de significância de 0,05 como o limite para rejeitar a hipótese nula é uma tradição baseada em padrões de controle de qualidade e não é uma verdade absoluta (Bigby and Gadenne, 1996).
 Os autores devem indicar os testes estatísticos que foram utilizados para comparar os resultados. Dizer apenas que a diferença foi estatisticamente significativa (*p* < 0,050) não constitui uma descrição adequada da estatística utilizada.
 
 
@@ -71,11 +72,13 @@ O teste Qui-quadrado é usado para analisar dados categóricos não pareados e o
 
 As tabelas de contingência podem ser facilmente modificadas para comparar mais de dois tratamentos ou mais de dois desfechos.
 
-![Exemplo de tabela de contingência, cálculo do qui-quadrado e da correção de Yates (Bigby and Gadenne, 1996).](conttable.png "Exemplo de tabela de contingência, cálculo do qui-quadrado e da correção de Yates (Bigby and Gadenne, 1996).")
+Exemplo de tabela de contingência, cálculo do qui-quadrado e da correção de Yates (Bigby and Gadenne, 1996):
+
+![Exemplo de tabela de contingência, cálculo do qui-quadrado e da correção de Yates (Bigby and Gadenne, 1996).](/images/conttable.png)
 
  Assim como o teste *t*, o qui-quadrado é frequentemente usado de modo incorreto em ensaios clínicos publicados.
 
-Gore, Jones e Ritter [@goreMisuseStatisticalMethods1977], numa análise de artigos publicados no *British Medical Journal* verificaram uso incorreto do teste qui-quadrado em 12 de 62 trabalhos!
+Gore, Jones e Rytter (1977) numa análise de artigos publicados no *British Medical Journal* verificaram uso incorreto do teste qui-quadrado em 12 de 62 trabalhos!
 
 
 ### Erros comuns no uso do teste Qui-Quadrado
@@ -94,6 +97,12 @@ Os erros mais comuns em relação ao qui-quadrado são:
  
 
 # Referências
+
+Bahar, Burak, Stefan E Pambuccian, Güliz A Barkan, and Yasemin Akdaş. 2019. “The Use and Misuse of Statistical Methods in Cytopathology Studies: Review of 6 Journals.” Laboratory Medicine 50 (1): 8–15. https://doi.org/10.1093/labmed/lmy036.
+
+Bigby, Michael, and Anne-Sophie Gadenne. 1996. “Understanding and Evaluating Clinical Trials.” Journal of the American Academy of Dermatology 34 (4): 555–90. https://doi.org/10.1016/S0190-9622(96)80053-3.
+
+Gore, S. M., I. G. Jones, and E. C. Rytter. 1977. “Misuse of Statistical Methods: Critical Assessment of Articles in BMJ from January to March 1976.” Br Med J 1 (6053): 85–87. https://doi.org/10.1136/bmj.1.6053.85.
 
 
 
