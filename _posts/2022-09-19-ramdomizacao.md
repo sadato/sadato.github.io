@@ -3,7 +3,7 @@ layout: post
 title:  Randomização e Avaliação dos Desfechos
 
 ---
-![ ](/images/dice.jpg)#
+![ ](/images/dice.jpg)
 
 Nos ensaios clínicos randomizados, idealmente os pacientes deveriam  ser alocados de modo aleatório aos grupos de tratamento, para:
 
@@ -20,7 +20,7 @@ A prática comum de atribuir valores de *p* às diferentes características dos 
 Um exemplo de diferenças que não foram consideradas estatiticamente significativas entre os grupos, mas que poderiam ter importante impacto prognóstico, pode ser encontrado no artigo de Fentiman e colaboradores (Fentiman, Rubens e Hayward, 1983).  Esses autores compararam o uso de mustina e talco no manejo de derrames pleurais em pacientes com câncer de mama e concluíram que o talco seria superior. Entretanto, observando a tabela das características da doença nos dois grupos, vemos que as pacientes 
 que receberam mustina tinham doença em estágios mais avançados (3 e 4) e desenvolvimento mais precoce do derrame pleural. Não obstante, os autores se contentaram em relatar que as diferenças não foram estatisticamente significativas e consideraram os grupos comparáveis:
 
-![Características clínico-patológicas das pacientes](fentiman_table.png)
+![Características clínico-patológicas das pacientes](/images/fentiman_table.png)
 
 O mais importante, portanto,  é avaliar o possível impacto que as diferenças  de características clínico-patológicas entre os grupos, na linha de base, possa ter nos resultados do estudo.
 
@@ -115,24 +115,33 @@ Podem ser criadas escalas para desfechos que sejam mais subjetivos por natureza,
 - ser suficientemente padronizadas e reprodutíveis.
 
 
-As variáveis devem ter clara significância clínica e biológica. Imaginemos, por exemplo, um ensaio terapêutico de pacientes com acne severa, que tenha relatado uma redução de um número médio de  lesões de 300 para 250. Isso pode significar que em alguns pacientes a pele limpou completamente, enquanto em outros a pele ficou sem alterações ou a acne até piorou. Também pode significar que todos os paciente melhoraram um pouco (Bigby e Gadenne, 1996). Mais ainda: será que um paciente tem um aspecto melhor quando o número de lesões cai de 400 para 350? Houve menos formação de cicatrizes e menos complicações?
+As variáveis devem ter clara significância clínica e biológica. Imaginemos, por exemplo, um ensaio terapêutico de pacientes com acne severa, que tenha relatado uma redução de um número médio de  lesões de 300 para 250. Isso pode significar que em alguns pacientes a pele limpou completamente, enquanto em outros a pele ficou sem alterações ou a acne até piorou. Também pode significar que todos os pacientes melhoraram um pouco (Bigby e Gadenne, 1996). Mais ainda: será que um paciente tem um aspecto melhor quando o número de lesões cai de 400 para 350? Houve menos formação de cicatrizes e menos complicações?
 
 O número de variáveis de desfecho deve ser pequeno e estas **devem ser escolhidas antes do início do estudo**. É importante enfatizar que um número grande de variáveis aumenta a chance de detecção de diferenças espúrias.
 
 ## Cuidado com as variáveis substitutas de desfecho (*surrogate variables*)
 
-Muitas vezes os estudos utilizam resultados de análises laboratoriais e outros parâmetros fisiopatológicos como substitutos para desfechos clínicos; avaliam, por exemplo,  índices de linfócitos CD4/CD8 em pacientes com AIDS no lugar de desfechos clinicamente significativos, como sobrevida [@bigbyUnderstandingEvaluatingClinical1996].
+Muitas vezes os estudos utilizam resultados de análises laboratoriais e outros parâmetros fisiopatológicos como substitutos para desfechos clínicos; avaliam, por exemplo,  índices de linfócitos CD4/CD8 em pacientes com AIDS no lugar de desfechos clinicamente significativos, como sobrevida (Bigby e Gadenne, 1996).
 As variáveis substitutas de desfecho podem ser usadas, mas devem ter boa correlação com desfechos clínicos e a sua validade deve ter sido demonstrada em estudos prévios.
 
 ### Exemplo do perigo de usar medidas substitutas de desfecho:
 
-Após um infarto agudo do miocárdio, a administração de drogas antiarrítmicas resultou em menor ocorrência de despolarização ventricular anormal, mas em estudos randomizados controlados posteriores, o seu uso foi associado a mortalidade excessiva na comparação com placebo [@bigbyUnderstandingEvaluatingClinical1996].
+Após um infarto agudo do miocárdio, a administração de drogas antiarrítmicas resultou em menor ocorrência de despolarização ventricular anormal, mas em estudos randomizados controlados posteriores, o seu uso foi associado a mortalidade excessiva na comparação com placebo (Bigby e Gadenne, 1996).
 
 # Conclusão
 
 A randomização realizada de modo adequado  e a correta escolha das variáveis de desfecho são fundamentais para que os ensaios clínicos produzam resultados confiáveis. As diferenças entre os diferentes grupos de tratamento devem ser analisadas não apenas quanto à sua significância estatística, mas também quanto ao seu significado biológico e clínico.
 
 # Referências
+
+Bigby, Michael, and Anne-Sophie Gadenne. 1996. “Understanding
+and Evaluating Clinical Trials.” Journal of the American Aca-
+demy of Dermatology 34 (4): 555–90. 
+
+Fentiman, Ian S., Robert D. Rubens, and John L. Hayward. 1983.
+“Control of Pleural Effusions in Patients with Breast Cancer a
+Randomized Trial.” Cancer 52 (4): 737–39. 
+
 
 
 
