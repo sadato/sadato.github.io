@@ -1,4 +1,9 @@
-# Randomização e Avaliação dos Desfechos
+---
+layout: post
+title:  Randomização e Avaliação dos Desfechos
+
+---
+![ ](/images/dice.jpg)#
 
 Nos ensaios clínicos randomizados, idealmente os pacientes deveriam  ser alocados de modo aleatório aos grupos de tratamento, para:
 
