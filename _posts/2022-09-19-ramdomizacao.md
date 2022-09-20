@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Randomização e Avaliação dos Desfechos
+title:  Randomização nos Ensaios Clínicos
 
 ---
 ![ ](/images/dice.jpg)
