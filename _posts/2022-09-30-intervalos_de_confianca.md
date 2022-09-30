@@ -118,6 +118,9 @@ A estatística nos ensaios clínicos é uma *ferramenta* para assegurar que as d
 
 ## Referências
  
+Bigby, Michael, and Anne-Sophie Gadenne. 1996. “Understanding and Evaluating Clinical Trials.” Journal of the American Academy of Dermatology 34 (4): 555–90. https://doi.org/10.1016/S0190-9622(96)80053-3.
+ 
+Rümke, C. L. 1975. “Letter: Implications of the statement: No side effects were observed.” The New England Journal of Medicine 292 (7): 372–73. https://doi.org/10.1056/nejm197502132920723.
 
 
 
