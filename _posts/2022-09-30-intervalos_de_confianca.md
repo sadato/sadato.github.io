@@ -46,7 +46,7 @@ A vantagem de utilizar intervalos de confiança em vez ou além dos valores de *
 
 ## Exemplos de interpretação dos intervalos de confiança
 
-Num estudo de psoríase, a diferença na mudança média nos escores PASI de severidade da doença entre os tratamentos com calcipotriol e betametasona foi de 0,18 (5,50 versus 5,32) e o intervalo de confiança a 95% para essa diferença foi -0,40 a 0,78 [@bigbyUnderstandingEvaluatingClinical1996.] Como o intervalo a 95% inclui a diferença zero, nós não podemos estar 95% seguros de que os efeitos da calcipotriol e da betametasona são diferentes.
+Num estudo de psoríase, a diferença na mudança média nos escores PASI de severidade da doença entre os tratamentos com calcipotriol e betametasona foi de 0,18 (5,50 versus 5,32) e o intervalo de confiança a 95% para essa diferença foi -0,40 a 0,78 (Bigby e Gadenne, 1996). Como o intervalo a 95% inclui a diferença zero, nós não podemos estar 95% seguros de que os efeitos da calcipotriol e da betametasona são diferentes.
 
 
 Os intervalos de confiança podem ser úteis na interpretação de dados de ensaios clínicos nos quais a diferença entre os tratamentos não foi estatisticamente significativa.  Nesses casos, devemos olhar para o limite superior do intervalo de confiança a 95%; se esse valor fosse clinicamente importante caso representasse a verdadeira resposta da amostra de pacientes, então um efeito importante de um tratamento pode ter sido perdido nesse estudo!
@@ -74,7 +74,7 @@ Usando as mesmas ferramentas acima, também é possível calcular intervalos de 
 ## Ensaio clínico sem nenhum efeito adverso
 
 Quando um ensaio clínico não relata a ocorrência de nenhum efeito adverso, também é possível calcular os limites superiores dos intervalos de confiança para a ocorrência "real" de efeitos adversos na população.
-A regra simples para isso é dividir 3 pelo número de pacientes no estudo (95% de confiança) ou 5 pelo *n* do estudo (99%) [@rumkeLetterImplicationsStatement1975].
+A regra simples para isso é dividir 3 pelo número de pacientes no estudo (95% de confiança) ou 5 pelo *n* do estudo (99%) (Rümke, 1975).
 	
 
 
