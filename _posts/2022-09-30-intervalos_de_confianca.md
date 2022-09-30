@@ -1,4 +1,10 @@
-# Intervalos de Confiança e Poder Estatístico
+---
+layout: post
+title: Intervalos de Confiança e Poder Estatístico
+
+---
+
+<img src="/images/power.png" width="500">
 
 A utilização dicotômica de "diferença estatisticamente significativa" ou "não significativa" nos ensaios clínicos pode esconder diferenças clinicamente importantes entre os tratamentos.  No caso dos ensaios clínicos, o mais importante  é se os pesquisadores foram capazes de detectar uma diferença clinicamente significativa entre os tratamentos e qual foi a magnitude dessa diferença.
 É importante ressaltar que os valores convencionados de significância estatística são guias muito úteis para a interpretação dos resultados, mas não devem ser considerados regras estritas: imaginemos, por exemplo,  dois ensaios clínicos, um com um valor de *p* de 0,05 e outro com um *p* de 0,06; apesar da diferença mínima, o primeiro seria considerado significativo e o segundo não significativo! Por esse motivo, ao analisarmos um ensaio clínico, devemos olhar além da simples significância estatística.
