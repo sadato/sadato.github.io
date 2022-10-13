@@ -24,7 +24,7 @@ A causa mais provável para esse resultado é que os pacientes aderentes têm ta
 
 ## Exemplo de estudo que ignorou o viés de aderência
 
-O estudo de Stricker et al (ref) sugeriu que a aplicação tópica de dinitroclorobenzeno em pacientes HIV-positivos teria um efeito neuromodulador e reduziria a progressão para AIDS; entretanto, os autores ignoraram o fato de que a maioria dos pacientes com os piores desfechos eram também não-aderentes ao tratamento, o que pode ter introduzido um viés a favor do fármaco testado.
+O estudo de Stricker et al (1994) sugeriu que a aplicação tópica de dinitroclorobenzeno em pacientes HIV-positivos teria um efeito neuromodulador e reduziria a progressão para AIDS; entretanto, os autores ignoraram o fato de que a maioria dos pacientes com os piores desfechos eram também não-aderentes ao tratamento, o que pode ter introduzido um viés a favor do fármaco testado.
 
 # Complicações dos Ensaios Clínicos
 
