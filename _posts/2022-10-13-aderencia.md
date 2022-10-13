@@ -3,6 +3,7 @@ layout: post
 title: Aderência dos pacientes e complicações dos ensaios clínicos
 
 ---
+<img src="/images/blue-pills.jpg" width="500">
 
 Algumas diferenças de desfecho nos ensaios clínicos podem ser causadas por diferenças na aderência dos pacientes aos regimes terapêuticos e não necessariamente por diferenças na eficácia dos tratamentos testados. Várias podem ser as causas da falta de aderência dos pacientes, e ela é menor para tratamentos que são difíceis, desgradáveis ou que tenham efeitos colaterais significativos.
 
