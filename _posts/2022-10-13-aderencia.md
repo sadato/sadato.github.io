@@ -17,10 +17,10 @@ Vários métodos podem ser utilizados para verificar o grau de aderência dos pa
 
 ## Um exemplo de influência do grau de aderência nos desfechos
 
-Um exemplo notável da influência da aderência (ou da falta dela) sobre os desfechos estudados é o estudo do Coronary Drug Project Research Group (ref): homens que sobreviveram a um infarto do miocárdio foram observados prospectivamente quanto à repetição do infarto ou morte. Nesse estudo, 26% de 882 homens que tomaram menos do que 80% da medicação prescrita morreram, em comparação com apenas 16% de 1.813  homens que ingeriram mais do que 80% da medicação. Esse resultado pareceu indicar um efeito notável da medicação para reduzir a colesterolemia, até que a quebra do cegamento revelou que nesses casos a medicação responsável era um placebo!
+Um exemplo notável da influência da aderência (ou da falta dela) sobre os desfechos estudados é o estudo do Coronary Drug Project Research Group (1980): homens que sobreviveram a um infarto do miocárdio foram observados prospectivamente quanto à repetição do infarto ou morte. Nesse estudo, 26% de 882 homens que tomaram menos do que 80% da medicação prescrita morreram, em comparação com apenas 16% de 1.813  homens que ingeriram mais do que 80% da medicação. Esse resultado pareceu indicar um efeito notável da medicação para reduzir a colesterolemia, até que a quebra do cegamento revelou que nesses casos a medicação responsável era um placebo!
 
 O fato de que pacientes com boa aderência ao tratamento e que seguem as instruções dos pesquisadores podem ter desfechos melhores mesmo que esse tratamento não seja eficaz tem sido conprovado em diversos estudos. 
-A causa mais provável para esse resultado é que os pacientes aderentes têm também várias outras características comportamentais gerais que reduzem o seu risco de desfechos defavoráveis, e o oposto deve ocorrer com os pacientes não-aderentes.
+A causa mais provável para esse resultado é que os pacientes aderentes têm também várias outras características comportamentais gerais que reduzem o seu risco de desfechos desfavoráveis, e o oposto deve ocorrer com os pacientes não-aderentes.
 
 ## Exemplo de estudo que ignorou o viés de aderência
 
