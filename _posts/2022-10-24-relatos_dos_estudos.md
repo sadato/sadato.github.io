@@ -1,7 +1,11 @@
-# Lidando com as Perdas de Participantes e  Relatando o Ensaio Clínico  
+---
+layout: post
+title: Lidando com as Perdas de Participantes e  Relatando o Ensaio Clínico
+
+---  
 
 
-Os pesquisadores devem relatar, sempre, os desfechos de **todos** os pacientes que entraram no ensaio clínico, quando estes desfechos forem conhecidos. Quando se perde o seguimento dos pacientes, essa perda deve ser mencionada e explicada; o seu impacto na análise estatística dos resultados também deve ser determinado e discutido [@bigbyUnderstandingEvaluatingClinical1996].
+Os pesquisadores devem relatar, sempre, os desfechos de **todos** os pacientes que entraram no ensaio clínico, quando estes desfechos forem conhecidos. Quando se perde o seguimento dos pacientes, essa perda deve ser mencionada e explicada; o seu impacto na análise estatística dos resultados também deve ser determinado e discutido (Bigby e Gadenne, 1996).
 
 Os participantes perdidos devem ser analisados nos seus respectivos grupos e há algumas maneiras possíveis de fazê-lo: 
 
@@ -41,22 +45,26 @@ O desvio-padrão (DP), a amplitude dos dados, a distância inter-quartílica e o
 Infelizmente, o EPM é **comumente mas incorretamente usado para descrever a variabilidade dos dados**. Essa escolha é feita por tradição e também porque o EPM **é sempre menor** do que o DP e o intervalo de confiança a 95% e, portanto, **fica mais bonito**! 
 A prática comum de relatar a média +/- EPM está firmemente entranhada na literatura médica e científica mas é frequentemente enganadora e inapropriada e deve ser desencorajada.
 
-O EPM só faz sentido para amostras grandes e com distribuição normal, pois nesses casos há uma chance de 95% de que a média verdadeira ou populacional esteja aproximadamente dentro do intervalo determinado pela média amostral menos duas vezes o EPM e a média amostral mais duas vezes o EPM [@altmanStandardDeviationsStandard2005] [@bigbyUnderstandingEvaluatingClinical1996]. Essa relação não se aplica a amostras pequenas sem distribuição normal ou com *outliers*.
+O EPM só faz sentido para amostras grandes e com distribuição normal, pois nesses casos há uma chance de 95% de que a média verdadeira ou populacional esteja aproximadamente dentro do intervalo determinado pela média amostral menos duas vezes o EPM e a média amostral mais duas vezes o EPM (Altman, 2005; Bigby e Gadenne, 1996). Essa relação não se aplica a amostras pequenas sem distribuição normal ou com *outliers*.
 
-Para complicar ainda mais a situação, muitas vezes os autores relatam a média +/- algum valor, sem especificar se se trata do DP ou do EPM! [@altmanStandardDeviationsStandard2005]
+Para complicar ainda mais a situação, muitas vezes os autores relatam a média +/- algum valor, sem especificar se se trata do DP ou do EPM! (Altman, 2005)
 
 
 ## O papel das figuras
 
 As figuras que mostram dados individuais são uma ferramenta excelente para apresentar pequenos conjuntos de dados e dados enviesados ou com *outliers*. Infelizmente, esses gráficos são subutilizados na literatura médica e científica. 
 
-Gráficos que usam "barras de erros" mostrando um DP ou um EP ilustram no máximo 68% da amostra ou os intervalos de confiança a 68%, respectivamente, e portanto são enganosas e deveriam ser evitados ou analisados com ceticismo [@bigbyUnderstandingEvaluatingClinical1996.].
+Gráficos que usam "barras de erros" mostrando um DP ou um EP ilustram no máximo 68% da amostra ou os intervalos de confiança a 68%, respectivamente, e portanto são enganosas e deveriam ser evitados ou analisados com ceticismo (Bigby e Gadenne, 1996).
 
 Os dados categóricos são preferencialmente apresentados em **tabelas** nas quais os tratamentos e os desfechos são apresentados em linhas e colunas, por exemplo: "curado" e "não curado"; "sobrevida" ou "morte"; e melhora "discreta", "moderada" e "acentuada". 
 As categorias de desfechos devem ser **claramente definidas, limitadas em número, clinicamente importantes**, e **declaradas antes do início do ensaio clínico**.
 
 
 ## Referências
+
+Altman, Douglas G., and J. Martin Bland. 2005. “Standard Deviations and Standard Errors.” BMJ 331 (7521): 903. https://doi.org/10.1136/bmj.331.7521.903.
+
+Bigby, Michael, and Anne-Sophie Gadenne. 1996. “Understanding and Evaluating Clinical Trials.” Journal of the American Academy of Dermatology 34 (4): 555–90. https://doi.org/10.1016/S0190-9622(96)80053-3.
 
 
 
