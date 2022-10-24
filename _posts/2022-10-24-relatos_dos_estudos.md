@@ -55,7 +55,7 @@ Para complicar ainda mais a situação, muitas vezes os autores relatam a média
 
 As figuras que mostram dados individuais são uma ferramenta excelente para apresentar pequenos conjuntos de dados e dados enviesados ou com *outliers*. Infelizmente, esses gráficos são subutilizados na literatura médica e científica. 
 
-Gráficos que usam "barras de erros" mostrando um DP ou um EP ilustram no máximo 68% da amostra ou os intervalos de confiança a 68%, respectivamente, e portanto são enganosas e deveriam ser evitados ou analisados com ceticismo (Bigby e Gadenne, 1996).
+Gráficos que usam "barras de erros" mostrando um DP ou um EPM ilustram no máximo 68% da amostra ou os intervalos de confiança a 68%, respectivamente, e portanto são enganosos e deveriam ser evitados ou analisados com ceticismo (Bigby e Gadenne, 1996).
 
 Os dados categóricos são preferencialmente apresentados em **tabelas** nas quais os tratamentos e os desfechos são apresentados em linhas e colunas, por exemplo: "curado" e "não curado"; "sobrevida" ou "morte"; e melhora "discreta", "moderada" e "acentuada". 
 As categorias de desfechos devem ser **claramente definidas, limitadas em número, clinicamente importantes**, e **declaradas antes do início do ensaio clínico**.
