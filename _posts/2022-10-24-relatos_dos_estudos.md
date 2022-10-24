@@ -3,6 +3,7 @@ layout: post
 title: Lidando com as Perdas de Participantes e  Relatando o Ensaio Clínico
 
 ---  
+![](/images/exasperated.png)
 
 
 Os pesquisadores devem relatar, sempre, os desfechos de **todos** os pacientes que entraram no ensaio clínico, quando estes desfechos forem conhecidos. Quando se perde o seguimento dos pacientes, essa perda deve ser mencionada e explicada; o seu impacto na análise estatística dos resultados também deve ser determinado e discutido (Bigby e Gadenne, 1996).
