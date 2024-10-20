@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estimulação Magnética Transcraniana: Manual Prático
+title: "Estimulação Magnética Transcraniana: Manual Prático"
 ---
 ![ ](/images/capa.jpg)
 
