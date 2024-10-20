@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estimulação Magnética para Depressão é Eficaz em Sessões com 3 Minutos de Duração
+title: Estimulação Magnética Transcraniana: Manual Prático
 
 ---
 ![ ](/images/capa.jpg)
