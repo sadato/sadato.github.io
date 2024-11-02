@@ -3,7 +3,7 @@ layout: post
 title: Imagens científicas e médicas  sem direitos autorais
 
 ---
-![ ](/images/nih-images-04.avif)
+
 
 
 
