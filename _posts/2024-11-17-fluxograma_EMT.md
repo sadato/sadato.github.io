@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linha do Tempo da Estimulação Magnética Transcraniana
+title: Passos na aplicação da EMTr para depressão
 
 ---
 ![ ](/images/Fluxograma_EMT.png)
