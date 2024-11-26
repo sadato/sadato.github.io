@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Níveis de Evidência da Estimulação Magnética Transcraniana
+title: O posicionamento dos eletrodos para a EMT
 
 ---
 ![ ](/images/graph.png)
