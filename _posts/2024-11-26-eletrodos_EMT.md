@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O Posicionamento dos Eletrodos para a EMT
+title: O Posicionamento da Bobina para a EMT
 
 ---
 ![ ](/images/graph.png)
