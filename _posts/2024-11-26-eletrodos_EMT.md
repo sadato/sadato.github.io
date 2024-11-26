@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O posicionamento dos eletrodos para a EMT
+title: O Posicionamento dos Eletrodos para a EMT
 
 ---
 ![ ](/images/graph.png)
