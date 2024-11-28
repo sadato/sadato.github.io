@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O Posicionamento da Bobina para a EMT
+title: Estimulação Magnética Transcraniana: Estudos Multicêntricos
 
 ---
 ![ ](/images/timeline_multicentricos.png)
