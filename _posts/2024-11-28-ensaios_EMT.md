@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estimulação Magnética Transcraniana: Estudos Multicêntricos
+title: Estimulação Magnética Transcraniana - Estudos Multicêntricos
 
 ---
 ![ ](/images/timeline_multicentricos.png)
